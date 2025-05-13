@@ -1,0 +1,4 @@
+pwd = mostra o caminho absoluto de onde está
+ls = lista os arquivos
+cd = muda de pasta
+cat = mostra o que tem dentro do arquivo
