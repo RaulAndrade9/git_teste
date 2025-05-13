@@ -6,4 +6,16 @@ git log -> mostra o histórico de todos os commits
 git add. -> adciona tudo na pasta
 
 
+fluxo de trabalho
+
+criar o diretorio
+iniciar o git (git init.)
+edita ou cria arquivo
+git status
+gid add "nome arquivo"
+git commit -m "mensagem"
+git status
+
+
+
 
