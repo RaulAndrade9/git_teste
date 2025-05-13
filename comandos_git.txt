@@ -2,4 +2,8 @@ git inti.  -> cria um repo git na pasta autual
 git status -> mostra o status do dtrabalho de cada arquivo
 git add nome do arquivo -> adciona o arquivo para ser comitado
 git commit -m "msg"  -> faz o commit do que estava pra ser comitado
+git log -> mostra o histórico de todos os commits
+git add. -> adciona tudo na pasta
+
+
 
