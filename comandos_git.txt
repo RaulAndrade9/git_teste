@@ -4,6 +4,9 @@ git add nome do arquivo -> adciona o arquivo para ser comitado
 git commit -m "msg"  -> faz o commit do que estava pra ser comitado
 git log -> mostra o histórico de todos os commits
 git add. -> adciona tudo na pasta
+git diff nome do arquivo -> mostra a diferença do arquivo atual para o arquivo do commit anterior 
+git reset nome do arquivo -> remove o arquivo do commit
+git checkout nome da branch -> cria uma nova branch
 
 
 fluxo de trabalho
