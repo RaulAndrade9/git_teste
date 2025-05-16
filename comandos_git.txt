@@ -6,9 +6,10 @@ git log -> mostra o histórico de todos os commits
 git add. -> adciona tudo na pasta
 git diff nome do arquivo -> mostra a diferença do arquivo atual para o arquivo do commit anterior 
 git reset nome do arquivo -> remove o arquivo do commit
-git checkout -b nome da branch -> cria uma nova branch
+git checkout -b nome da branch -> cria uma nova branch e vai pra ela
 git branch -> mostra as branch do projeto e em qual estamos
 git merge nome da outra brach-> traz pra main as alterações feitas em outra branch
+git branch - d nome da branch -> deleta a branch, não pode estar na branch que deseja deletar
 
 
 fluxo de trabalho
