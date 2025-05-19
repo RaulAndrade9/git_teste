@@ -1,2 +1,3 @@
 aqruivo para teste
+<<<<<<< HEAD
 teste secundaria 2
