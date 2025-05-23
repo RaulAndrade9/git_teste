@@ -1,4 +1,4 @@
-git inti.  -> cria um repo git na pasta autual
+git init.  -> cria um repo git na pasta atual
 git status -> mostra o status do dtrabalho de cada arquivo
 git add nome do arquivo -> adciona o arquivo para ser comitado
 git commit -m "msg"  -> faz o commit do que estava pra ser comitado
@@ -21,6 +21,10 @@ git status
 gid add "nome arquivo"
 git commit -m "mensagem"
 git status
+
+
+git pull origin main -> para baixar as alterações para o repositório local
+git push origin main -> para enviar as alterações para o repositório em nuvem
 
 
 
