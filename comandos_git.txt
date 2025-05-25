@@ -13,7 +13,6 @@ git branch - d nome da branch -> deleta a branch, não pode estar na branch que 
 
 git pull orgin main -> traz os arquivos da branch main que estão em um repositório para o rep local
 git push origin main -> envia os arquivos para a branch main do repositório remoto
-
 fluxo de trabalho
 
 criar o diretorio
