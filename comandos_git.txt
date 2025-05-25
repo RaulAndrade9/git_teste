@@ -11,6 +11,8 @@ git branch -> mostra as branch do projeto e em qual estamos
 git merge nome da outra brach-> traz pra main as alterações feitas em outra branch
 git branch - d nome da branch -> deleta a branch, não pode estar na branch que deseja deletar
 
+git pull orgin main -> traz os arquivos da branch main que estão em um repositório para o rep local
+git push origin main -> envia os arquivos para a branch main do repositório remoto
 
 fluxo de trabalho
 
